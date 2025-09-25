@@ -5,3 +5,4 @@ Notes and usage details for BugTraceAI-CLI.
 - link the usage section
 - fix a small wording issue
 - clarify the setup steps
+- fix a small wording issue
